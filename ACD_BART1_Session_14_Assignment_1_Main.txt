@@ -47,8 +47,6 @@ Not applicable.
 5. Problem Statement
    1. Use the below given data set
 
-   DataSet
-
    Problem- prediction of the number of comments in the upcoming 24 hours on
    those blogs, The train data was generated from different base times that may
    temporally overlap. Therefore, if you simply split the train into disjoint partitions,
